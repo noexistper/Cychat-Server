@@ -1,10 +1,13 @@
 # Cychat Server
 
   This repository contains a bash script for Ubuntu server that allows you to manage a DHCP server and an SSH server. It's main feature is to enable/disable all possible screenshots from a Windows client. This script is useful for chat desktop applications that communicate through LAN. It's my first ever project for my final year. 
-![Screenshot 2023-12-25 141128](https://github.com/noexistper/Cychat/assets/108919761/4ca2a14d-e985-466e-a017-cbdd14397666)
+  <p align="center">
+    
+<a href="https://imgur.com/c2M0epF"><img src="https://i.imgur.com/c2M0epF.png" title="source: imgur.com" /></a>  
+    
+<a href="https://imgur.com/Sw0JFgP"><img src="https://i.imgur.com/Sw0JFgP.png" title="source: imgur.com" /></a> 
 
-![Screenshot 2023-12-25 141146](https://github.com/noexistper/Cychat/assets/108919761/102339c0-432c-4f1e-a7cb-20f96a61625d)
-
+</p>
   
 # Steps for Server
   1) Download and install ubuntu server from https://ubuntu.com/download/server#downloads
@@ -18,9 +21,9 @@
   2) Also allow server in firewall.
      
 # And there you go ready for using the script.
-a) I used ubuntu server.
-b) It can be problematic for other linux distributions.
-c) My clients were windows 10 devices.
+1) I used ubuntu server.
+2) It can be problematic for other linux distributions.
+3) My clients were windows 10 devices.
 
 
 I hope it helps you for your projects :)
