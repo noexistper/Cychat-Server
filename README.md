@@ -11,7 +11,7 @@
   
 # Steps for Server
   1) Download and install ubuntu server from https://ubuntu.com/download/server#downloads
-  2) Clone script using following command :::     git clone https://github.com/noexistper/Cychat
+  2) Clone script using following command :::     git clone https://github.com/noexistper/Cychat-Server
   3) Run script using :::     sudo bash Cychat.sh
   4) It asks for all required packages, just enter "Y" to install
   5) After that you will see main menu.
